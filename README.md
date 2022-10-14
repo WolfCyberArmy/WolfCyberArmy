@@ -1,5 +1,10 @@
-
-<html>
-<head>
-<title>Hacked By (The Boredom)</title>
-</head>
+pkg install 
+pkg update 
+pkg mechanize 
+Install conecting 
+Install geadget 
+git clone https://github.com/WolfCyberArmy 
+Is
+cd card 
+Is
+cd wolfcyberarmy
